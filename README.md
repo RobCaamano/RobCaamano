@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![resume icon](https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b)](https://www.linkedin.com/in/robcaamano/)
 
 
-<img src="https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b" width="100">
+<img src="https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b" width="150">
