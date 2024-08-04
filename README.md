@@ -35,4 +35,6 @@
 
 ---
 
-<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/eb73476e-b6b1-4f50-8e1a-d10fa4e6a216" width="150"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/28b41ff3-d552-44c6-8fe4-a0e980c41407" width="150"></a>
+<div align="center"
+  <a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/eb73476e-b6b1-4f50-8e1a-d10fa4e6a216" width="150"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/28b41ff3-d552-44c6-8fe4-a0e980c41407" width="150"></a>
+</div>
