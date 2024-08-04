@@ -11,10 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me" style="margin-right: 10px;">
-  <span style="font-size: 16px;">About me</span>
-</div>
+<img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me">
 ---
 
 
