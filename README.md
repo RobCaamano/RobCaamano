@@ -11,7 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/user-attachments/assets/5c9fd119-331b-4188-a63a-8a7d0262df62" width="120" alt="Python">---
+<img src="https://github.com/user-attachments/assets/5c9fd119-331b-4188-a63a-8a7d0262df62" width="120" alt="Python">
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
