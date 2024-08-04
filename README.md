@@ -27,13 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="parent">
-  <div class="child">
-    <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs"></a>
-  </div>
-  <div class="child">
-    <p> Hello there </p>
-  </div>
+<div>
+  <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs"></a>
+  <p> Hello there </p>
 </div>
 
 <div>
