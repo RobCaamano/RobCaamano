@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/user-attachments/assets/84861878-7327-4ff5-8fdd-25b3126f3b4c" width="50" alt="MySQL"></a>&nbsp;&nbsp;
 
-<a href="https://www.javascript.com/" target="_blank"><img src=https://github.com/user-attachments/assets/b1931413-e17c-48d8-b28d-89ae925ecf67" width="50" alt="JavaScript"></a>&nbsp;&nbsp;
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/user-attachments/assets/b1931413-e17c-48d8-b28d-89ae925ecf67" width="50" alt="JavaScript"></a>&nbsp;&nbsp;
 
 <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/user-attachments/assets/d1a32d03-6311-4132-a08c-9e57fb56eaef" width="50" alt="Flask"></a>&nbsp;&nbsp;
 
