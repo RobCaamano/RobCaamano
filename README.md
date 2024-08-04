@@ -17,32 +17,30 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" style="margin-right: 10px;">
+<a href="https://www.python.org/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python">
 </a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" style="margin-right: 10px;">
+<a href="https://www.tensorflow.org/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow">
 </a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" style="margin-right: 10px;">
+<a href="https://pytorch.org/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch">
 </a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" style="margin-right: 10px;">
+<a href="https://scikit-learn.org/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn">
 </a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="margin-right: 10px;">
+<a href="https://aws.amazon.com/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS">
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin-right: 10px;">
+<a href="https://www.mysql.com/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
 </a>
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right: 10px;">
+<a href="https://www.javascript.com/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" style="margin-right: 10px;">
+<a href="https://flask.palletsprojects.com/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask">
 </a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" style="margin-right: 10px;">
+<a href="https://www.linux.org/" target="_blank" style="padding-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
 </a>
-
-
