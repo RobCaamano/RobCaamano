@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>&nbsp;&nbsp;<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"></a>&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn"></a>&nbsp;&nbsp;<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>&nbsp;&nbsp;<a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>&nbsp;&nbsp;<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robcaamano/)
-
-[![resume icon](https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b)](https://www.linkedin.com/in/robcaamano/)
-
-
-<img src="https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b" width="150">
+<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf">
+  <img src="https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b" width="150">
+</a>
