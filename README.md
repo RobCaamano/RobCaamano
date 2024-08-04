@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/user-attachments/assets/d779f8c9-62d3-4bea-9963-1aa434da3ed8" width="120" alt="Python">
+<img src="https://github.com/user-attachments/assets/7c24d226-3622-415a-9fdd-e2691eef5942" width="120" alt="Python">
 
 ---
 
