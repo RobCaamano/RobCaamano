@@ -1,5 +1,4 @@
-![Header](./![github-header-image](https://github.com/user-attachments/assets/4bad35f8-40ce-463c-a0ef-4795e26cc2e0)
-)
+![Header](./https://github.com/user-attachments/assets/4bad35f8-40ce-463c-a0ef-4795e26cc2e0)
 
 <!--
 **RobCaamano/RobCaamano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
