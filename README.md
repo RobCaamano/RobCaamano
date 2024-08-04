@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://github.com/user-attachments/assets/2eb95675-c8d8-492f-9651-285eb78797c4" width="50" alt="Scikit-Learn"></a>&nbsp;&nbsp;
 
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/d7a29e2f-8a31-4b99-9880-095bd8c937f4" width="50" alt="NumPy"></a>&nbsp;&nbsp;
+<a href="https://numpy.org/" target="_blank"><img src="https://github.com/user-attachments/assets/d7a29e2f-8a31-4b99-9880-095bd8c937f4" width="50" alt="NumPy"></a>&nbsp;&nbsp;
 
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/81218bc3-6197-4f8c-b4d5-c0641a1e4368" width="50" alt="Pandas"></a>&nbsp;&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/user-attachments/assets/81218bc3-6197-4f8c-b4d5-c0641a1e4368" width="50" alt="Pandas"></a>&nbsp;&nbsp;
 
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/b8843f0d-c38c-4f8d-b1e9-d33488b73c63" width="50" alt="MatPlotLib"></a>&nbsp;&nbsp;
+<a href="https://matplotlib.org/" target="_blank"><img src="https://github.com/user-attachments/assets/b8843f0d-c38c-4f8d-b1e9-d33488b73c63" width="50" alt="MatPlotLib"></a>&nbsp;&nbsp;
 
-<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/ffabc205-258b-47bd-b99e-9a72659bff36" width="50" alt="Seaborn"></a>&nbsp;&nbsp;
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://github.com/user-attachments/assets/ffabc205-258b-47bd-b99e-9a72659bff36" width="50" alt="Seaborn"></a>&nbsp;&nbsp;
 
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5c744fea-55d6-4a3c-8474-c41699bed173" width="50" alt="AWS"></a>&nbsp;&nbsp;
 
