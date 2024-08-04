@@ -18,6 +18,13 @@
 </tr>
 </table>
 
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td style="border: none;"><img src="image-url" alt="Description" style="width:100px; height:auto;"></td>
+<td style="border: none; vertical-align: middle;">Your text here</td>
+</tr>
+</table>
+
 ---
 
 <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" align="left" alt="Top Langs"></a>
