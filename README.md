@@ -13,8 +13,8 @@
 
 <table style="border-collapse: collapse; width: 100%;">
 <tr>
-<td><img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me"></td>
-<td style="vertical-align: middle;">Your text here</td>
+<td style="border: none;"><img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me"></td>
+<td style="border: none; vertical-align: middle;">Your text here</td>
 </tr>
 </table>
 
