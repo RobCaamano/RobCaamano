@@ -11,10 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
+![about me](https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80) About Me
+
 ---
 
-- About me
-- 
 
 ---
 
