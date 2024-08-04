@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robcaamano/)
 
 [![resume icon](https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b))](https://www.linkedin.com/in/robcaamano/)
+
+
+<img src="https://github.com/user-attachments/assets/2d25cd06-0769-4930-8d45-bcb80a73d73b" width="48">
