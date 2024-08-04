@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="languages">
+<div>
   <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs"></a>
   <p> Hello there </p>
 </div>
@@ -44,8 +44,3 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/eb73476e-b6b1-4f50-8e1a-d10fa4e6a216" width="150"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/28b41ff3-d552-44c6-8fe4-a0e980c41407" width="150"></a>
-
-.languages{
-    display:flex;
-    align-items:center;
-}
