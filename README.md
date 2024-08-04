@@ -11,8 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me">
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me">
+  <p>About Me</p>
+</div>
 ---
 
 <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" align="left" alt="Top Langs"></a>
