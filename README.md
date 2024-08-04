@@ -49,8 +49,6 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/user-attachments/assets/e4711af9-bb0c-49e5-aaee-8547e0770a4f" width="50" alt="Linux"></a>
 </div>
 
-<p style="font-size:50.0pt">Contact Me</p>
-
 ---
 
 <div align="center">
