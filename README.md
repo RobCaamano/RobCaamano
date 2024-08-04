@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,aws,mysql)](https://skillicons.dev)
+
