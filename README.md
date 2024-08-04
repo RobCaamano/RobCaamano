@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&theme=dark&title_color=f3de8a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&theme=dark&title_color=202030)](https://github.com/anuraghazra/github-readme-stats)
