@@ -50,6 +50,6 @@
 
 ---
 
-<div align="center"
+<div align="center">
   <a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/a186c770-eba1-4c6c-bc20-9c81401e47aa" width="150"></a>&nbsp;&nbsp;<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/65ac5120-0d01-4781-8fee-3297913ee7a3" width="150"></a>
 </div>
