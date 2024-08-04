@@ -13,6 +13,8 @@
 
 <img src="https://github.com/user-attachments/assets/1a1f81b7-2c78-495f-ab9e-0298b85621c6" width="120" alt="About Me">
 
+<p>Hello there</p>
+
 ---
 
 - 🔭 Find my favorite projects pinned below
