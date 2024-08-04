@@ -12,7 +12,7 @@
 -->
 
 <img src="https://github.com/user-attachments/assets/1a1f81b7-2c78-495f-ab9e-0298b85621c6" width="120" align="left" alt="About Me">
-<div align="left">
+<div align="vertical-align">
   <p>Hello</p>
 </div>
 
