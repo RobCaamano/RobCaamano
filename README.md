@@ -11,17 +11,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<table style="border-collapse: collapse; width: 100%;">
+<table cellspacing="0" cellpadding="0">
 <tr>
-<td style="border: none;"><img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me"></td>
-<td style="border: none; vertical-align: middle;">Your text here</td>
-</tr>
-</table>
-
-<table style="border-collapse: collapse; width: 100%;">
-<tr>
-<td style="border: none;"><img src="image-url" alt="Description" style="width:100px; height:auto;"></td>
-<td style="border: none; vertical-align: middle;">Your text here</td>
+<td><img src="https://github.com/user-attachments/assets/1bb92b10-b8c6-45c6-a72f-2737da5e6d80" width="70" alt="About Me"></td>
+<td "vertical-align: middle;">Your text here</td>
 </tr>
 </table>
 
