@@ -14,12 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p float="left>
-  <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs"></a>
-  <p>Hello there </p>
-</p>
 
-<div>
+  <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs"></a><div>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/user-attachments/assets/541f485d-cdef-4f2d-8242-62abc389171d" width="50" alt="Python"></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/user-attachments/assets/69fee0f9-41a9-4a06-b5b6-53f07a317d5f" width="50" alt="TensorFlow"></a>&nbsp;&nbsp;
   <a href="https://pytorch.org/" target="_blank"><img src="https://github.com/user-attachments/assets/d5ecabcf-b574-4a51-9d7f-196a459ba8b9" width="50" alt="PyTorch"></a>&nbsp;&nbsp;
