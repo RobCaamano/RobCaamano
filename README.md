@@ -15,8 +15,6 @@
 
 <br>
 
-<br>
-
 <p>Hello there</p>
 
 ---
