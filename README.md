@@ -19,10 +19,4 @@ Here are some ideas to get you started:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>&nbsp;&nbsp;<a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow"></a>&nbsp;&nbsp;<a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></a>&nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn"></a>&nbsp;&nbsp;<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"></a>&nbsp;&nbsp;<a href="https://www.javascript.com/" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"></a>&nbsp;&nbsp;<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"></a>&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"></a>
 
-<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf">
-  <img src="https://github.com/user-attachments/assets/eb73476e-b6b1-4f50-8e1a-d10fa4e6a216" width="150">
-</a>
-
-<a href="https://www.linkedin.com/in/robcaamano/">
-  <img src="https://github.com/user-attachments/assets/28b41ff3-d552-44c6-8fe4-a0e980c41407" width="150">
-</a>
+<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/eb73476e-b6b1-4f50-8e1a-d10fa4e6a216" width="150"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/28b41ff3-d552-44c6-8fe4-a0e980c41407" width="150"></a>
