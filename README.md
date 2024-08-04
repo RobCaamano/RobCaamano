@@ -15,7 +15,7 @@
 
 <br>
 
-<p>Hello there</p>
+<p>Recent Computer Science graduate at NJIT</p>
 
 ---
 
