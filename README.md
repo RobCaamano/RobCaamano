@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/a186c770-eba1-4c6c-bc20-9c81401e47aa" width="150"></a>&nbsp;&nbsp;<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/65ac5120-0d01-4781-8fee-3297913ee7a3" width="150"></a>
+  <a href="https://www.linkedin.com/in/robcaamano/"><img src="https://github.com/user-attachments/assets/a186c770-eba1-4c6c-bc20-9c81401e47aa" width="150"></a>&nbsp;&nbsp;<a href=""><img src="https://github.com/user-attachments/assets/03e1e726-2e86-409a-b402-9e0fdf21d994" width="150"></a>&nbsp;&nbsp;<a href="https://github.com/user-attachments/files/16488801/Roberto.Caamano.Resume.pdf"><img src="https://github.com/user-attachments/assets/65ac5120-0d01-4781-8fee-3297913ee7a3" width="150"></a>
 </div>
