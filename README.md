@@ -29,6 +29,7 @@
 <a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF&hide_border=true" align="left" alt="Top Langs"></a>
 
 <br>
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/user-attachments/assets/2096e5df-b035-441a-b1ff-9836a1e3df28" width="50" alt="Python"></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/user-attachments/assets/345e16f2-fa50-4ab4-bcfc-76c5109df250" width="50" alt="TensorFlow"></a>&nbsp;&nbsp;
@@ -47,6 +48,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/user-attachments/assets/b08a21ab-2611-446e-b3ea-69adef88a437" width="50" alt="Flask"></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://github.com/user-attachments/assets/e4711af9-bb0c-49e5-aaee-8547e0770a4f" width="50" alt="Linux"></a>
 </div>
+
+<br>
 
 <p>Contact Me</p>
 
