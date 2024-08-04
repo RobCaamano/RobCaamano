@@ -45,3 +45,13 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
 </a>
 
+<style>
+  a {
+    display: inline-block;
+  }
+  a img {
+    display: block;
+  }
+</style>
+
+
