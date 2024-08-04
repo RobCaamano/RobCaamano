@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/user-attachments/assets/5c744fea-55d6-4a3c-8474-c41699bed173" width="50" alt="AWS"></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://github.com/user-attachments/assets/f31cd8e2-d2df-4c18-90a1-ea8087f2bb3f" width="50" alt="AWS"></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://github.com/user-attachments/assets/84861878-7327-4ff5-8fdd-25b3126f3b4c" width="50" alt="MySQL"></a>&nbsp;&nbsp;
   <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/user-attachments/assets/b1931413-e17c-48d8-b28d-89ae925ecf67" width="50" alt="JavaScript"></a>&nbsp;&nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://github.com/user-attachments/assets/d1a32d03-6311-4132-a08c-9e57fb56eaef" width="50" alt="Flask"></a>&nbsp;&nbsp;
