@@ -13,7 +13,12 @@
 
 ---
 
-<a href="https://github.com/RobCaamano"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs" style="vertical-align: middle;"></a><span style="display: inline-block; vertical-align: middle; margin-left: 10px;"></span>
+<a href="https://github.com/RobCaamano" style="vertical-align: top;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robcaamano&exclude_repo=MLP-vs-CNN-Federal-Reserve-Economic-Data,ResNet50-CNN-Visualization-and-Transfer-Learning&title_color=FFFFFF&bg_color=259890&text_color=FFFFFF" alt="Top Langs" style="vertical-align: top;">
+</a>
+<span style="display: inline-block; vertical-align: top; margin-left: 10px;">
+  Your text goes here.
+</span>
 
 ---
 
