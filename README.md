@@ -28,7 +28,7 @@
 
 <br>
 
-<p>Tech Stack</p>
+<p align="center">My Tech Stack</p>
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/user-attachments/assets/2096e5df-b035-441a-b1ff-9836a1e3df28" width="50" alt="Python"></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://github.com/user-attachments/assets/345e16f2-fa50-4ab4-bcfc-76c5109df250" width="50" alt="TensorFlow"></a>&nbsp;&nbsp;
