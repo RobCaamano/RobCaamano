@@ -19,7 +19,7 @@
 
 - 🔭 Find my favorite projects pinned below
 - 💬 Currently open to work!
--  ♂️   Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
 ---
 
