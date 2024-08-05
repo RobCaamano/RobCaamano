@@ -11,11 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/user-attachments/assets/1a1f81b7-2c78-495f-ab9e-0298b85621c6" width="130" style="padding-bottom: 25px;" alt="About Me">
+<img src="https://github.com/user-attachments/assets/1a1f81b7-2c78-495f-ab9e-0298b85621c6" width="130" alt="About Me">
 
-<br>
-
-<p>Recent Computer Science graduate at NJIT</p>
+<p style="padding-top: 25px;">Recent Computer Science graduate at NJIT</p>
 
 ---
 
