@@ -19,6 +19,7 @@
 
 - 🔭 Find my favorite projects pinned below
 - 💬 Currently open to work!
+- 😸 My profile picture is my beautiful cat frances farmer
 - 😄 Pronouns: He/Him
 
 ---
