@@ -29,7 +29,7 @@
 <br>
 
 <div align=center>
-  # My Tech Stack
+  ### My Tech Stack
 </div>
 
 <div align="center">
