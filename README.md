@@ -18,6 +18,7 @@
 ---
 
 - 🔭 Find my favorite projects pinned below
+- 💬 Currently open to work!
 
 ---
 
