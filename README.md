@@ -13,7 +13,7 @@
 
 <img src="https://github.com/user-attachments/assets/1a1f81b7-2c78-495f-ab9e-0298b85621c6" width="130" alt="About Me">
 
-<p>Recent Computer Science graduate at NJIT</p>
+<p>Hey there! I'm a recent grad diving headfirst into the world of Data Science, AI, and ML. I love wrangling data with tools like TensorFlow, PyTorch, and Scikit-Learn to build predictive models that uncover hidden insights. Whether it's crunching numbers, visualizing trends, or making sense of complex datasets, I’m all about turning data into actionable knowledge. Feel free to explore my projects and connect with me!</p>
 
 ---
 
