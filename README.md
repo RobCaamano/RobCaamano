@@ -15,6 +15,8 @@
 
 <p>Hey there! I'm a recent grad diving headfirst into the world of Data Science, AI, and ML. I love wrangling data with tools like TensorFlow, PyTorch, and Scikit-Learn to build predictive models that uncover hidden insights. Whether it's crunching numbers, visualizing trends, or making sense of complex datasets, I’m all about turning data into actionable knowledge. Feel free to explore my projects and connect with me!</p>
 
+---
+
 - 🔭 Find my favorite projects pinned below
 - 💬 Currently open to work!
 - 😄 Pronouns: He/Him
