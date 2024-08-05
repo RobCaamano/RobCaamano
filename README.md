@@ -28,9 +28,7 @@
 
 <br>
 
-<center>
-### My Tech Stack
-</center>
+<h3 style="text-align: center;">My Tech Stack</h3>
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/user-attachments/assets/2096e5df-b035-441a-b1ff-9836a1e3df28" width="50" alt="Python"></a>&nbsp;&nbsp;
