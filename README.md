@@ -8,7 +8,7 @@ I build production-grade GenAI platforms, multi-agent orchestration systems, and
 ## Tech stack
 
 **AI / GenAI**
-`Claude API` `MCP` `LangChain` `LangGraph` `RAG` `PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face`
+`LangChain` `LangGraph` `MCP` `Claude API` `RAG` `PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face`
 
 **Backend**
 `Python` `FastAPI` `Flask` `REST APIs` `SSE` `Pydantic` `SQLAlchemy` `Bash`
