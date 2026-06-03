@@ -1,7 +1,7 @@
 # Roberto Caamano
 **Senior Software Engineer · Financial Services Insights & Data**
 
-I build production-grade GenAI platforms, multi-agent orchestration systems, and AI-enabled backend infrastructure for financial services. Currently at Capgemini — designing agentic workflows and Responsible AI controls. Pursuing an M.S. in Data Science at NJIT.
+I build production-grade GenAI platforms, multi-agent orchestration systems, and AI-enabled backend infrastructure for financial services. Currently at Capgemini designing agentic workflows and Responsible AI controls. Pursuing an M.S. in Data Science at NJIT.
 
 ---
 
