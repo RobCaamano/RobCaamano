@@ -1,22 +1,28 @@
 # Roberto Caamano
 **Senior Software Engineer · Financial Services Insights & Data**
 
-I build production-grade GenAI platforms, multi-agent orchestration systems, and AI-enabled backend infrastructure for financial services. Currently at Capgemini designing agentic workflows and Responsible AI controls. Pursuing an M.S. in Data Science at NJIT.
-
 ---
 
 ## Tech stack
 
 **AI / GenAI**
+
 `LangChain` `LangGraph` `MCP` `Claude API` `RAG` `PyTorch` `TensorFlow` `Scikit-Learn` `Hugging Face`
 
 **Backend**
+
 `Python` `FastAPI` `Flask` `REST APIs` `SSE` `Pydantic` `SQLAlchemy` `Bash`
 
 **Cloud & Infra**
+
 `AWS (EC2, RDS, S3, Lambda)` `GCP (Compute Engine, GKE, Vertex AI, BigQuery)` `Azure (AI Foundry, VMs)` `Docker` `Kubernetes (GKE, EKS, self-managed)` `CI/CD` `Linux`
 
+**Power Platform**
+
+`Power Automate` `Power Apps (Canvas)` `Dataverse` `SharePoint/Graph API Integration`
+
 **Data**
+
 `Pandas` `NumPy` `PostgreSQL` `Redis` `Vector Databases` `SQL` `Matplotlib` `Seaborn`
 
 ---
